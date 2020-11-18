@@ -1,9 +1,9 @@
 ---
 name: e-mc report
-about: Create a report to help us improve
+about: improvement
 title: ''
 labels: ''
-assignees: amos-12872
+assignees: amos
 
 ---
 
